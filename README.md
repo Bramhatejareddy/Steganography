@@ -1,4 +1,4 @@
-# Image Steganography Tool
+# Secure Data Hiding in Images using Steganography (python)
 
 A Python-based tool for hiding and extracting secret messages in images using steganography. This tool allows users to encrypt a message into an image and later decrypt it using a passcode.
 
