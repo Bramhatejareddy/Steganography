@@ -23,9 +23,10 @@ A Python-based tool for hiding and extracting secret messages in images using st
 - Python 3.x
 - `tkinter` (usually comes pre-installed with Python)
 - `opencv-python` (for image processing)
-![Encryption Screenshot](encryptedImage.jpeg)
-![Decryption Screenshot]()
 
+
+### Screenshots
+ ![Encryption Screenshot].(collage.jpg)
 ### Steps
 1. Clone the repository:
    ```bash
