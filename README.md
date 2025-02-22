@@ -12,7 +12,7 @@ A Python-based tool for hiding and extracting secret messages in images using st
 ## Files in the Repository
 1. **`encryption.py`**: Contains the logic for embedding a message into an image.
 2. **`decryption.py`**: Contains the logic for extracting a message from an image.
-3. **`stego_ui.py`**:Contains the user interface to encrypt and decrypt the message in image.
+3. **`stego_gui.py`**:Contains the user interface to encrypt and decrypt the message in image.
 4. **`README.md`**: This file, providing an overview of the project.
 5. **`requirements.txt`**: Lists the dependencies required to run the project.
 
