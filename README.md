@@ -26,7 +26,7 @@ A Python-based tool for hiding and extracting secret messages in images using st
 
 
 ### Screenshots
- ![Encryption Screenshot].( collage )
+![Encryption Screenshot](collage.jpg)
 ### Steps
 1. Clone the repository:
    ```bash
